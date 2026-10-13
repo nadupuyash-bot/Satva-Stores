@@ -1,0 +1,6 @@
+{
+  "name": "YASHU — Modern E-Commerce Platform",
+  "description": "Premium, modern e-commerce shopping platform featuring curated fashion, footwear, luxury accessories, electronics, lifestyle collections with interactive cart, wishlist, checkout, and admin dashboard.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
